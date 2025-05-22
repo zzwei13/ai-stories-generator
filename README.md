@@ -48,7 +48,7 @@
 - StoryRAG: 使用期中資料庫生成故事。（由 RAG 建立） 
 
 - nlp_sentenceBert: NLP 計算
-- 
+
 ## 使用者介面
 
 使用 Streamlit 打造互動介面，支援以下功能：  
@@ -64,9 +64,8 @@
 
 ## DEMO
 
-1. [![Demo 1](https://img.youtube.com/vi/SEkmVnCEPo/0.jpg)](https://youtu.be/SEkmVnCEPo)  
-2. [![Demo 2](https://img.youtube.com/vi/axzKIcIC_zs/0.jpg)](https://youtu.be/axzKIcIC_zs)  
-3. [![Demo 3](https://img.youtube.com/vi/XiT6RNdnPKM/0.jpg)](https://youtu.be/XiT6RNdnPKM)
+1. [![Demo 2](https://img.youtube.com/vi/axzKIcIC_zs/0.jpg)](https://youtu.be/axzKIcIC_zs)  
+2. [![Demo 3](https://img.youtube.com/vi/XiT6RNdnPKM/0.jpg)](https://youtu.be/XiT6RNdnPKM)
 
 
 
