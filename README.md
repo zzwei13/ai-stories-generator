@@ -60,7 +60,7 @@
 ![ui01](static/img/ui01.png)
 
 ### 使用者回饋介面  
-![ui02](static/img/ui02.png)
+![ui02](static/img/ui.png)
 
 ## DEMO
 
