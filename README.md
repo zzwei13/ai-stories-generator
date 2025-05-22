@@ -26,30 +26,30 @@
 | Evaluation       | Cosine Similarity, Type-Token Ratio (TTR), User Feedback      |
 
 ---
-### Set up
+### 環境設定
 - pip install -r requirements.txt
 - go to https://www.together.ai/ to get your API key
 - create .env file then paste your API key in it.
 - E.g. TOGETHER_API_KEY3=1234
 
-### RUN CODE AT CMD
+### 在終端機執行程式碼
 - cd {the folder path of IR_Final.py }
 - streamlit run IR_Final.py
 
-### About Code
-- IR_Final: UI、Optimize Prompt、Main function(merge all function)、User feedback、set up and so on...
+### 關於程式碼
+- IR_Final: UI、優化提示、主功能（整合所有功能）、使用者回饋、設定等等…
 
-##### 1.User Preference Interface
-##### 2.Dynamic Prompt Engineering Module
-##### 3.Generative AI Integration
-##### 4.Automatic Content Evaluation & Feedback Loop
-##### 5.Output Visualization and Personalization
+##### 1.使用者偏好介面
+##### 2.動態提示工程模組
+##### 3.生成式人工智慧整合
+##### 4.自動內容評估與回饋迴路
+##### 5.輸出視覺化與個人化
 
-- StoryRAG:Generate Story by midterm database.(Create by RAG)
+- StoryRAG: 使用期中資料庫生成故事。（由 RAG 建立） 
 
-- nlp_sentenceBert: NLP Computation.
+- nlp_sentenceBert: NLP 計算
 - 
-## User Interface
+## 使用者介面
 
 使用 Streamlit 打造互動介面，支援以下功能：  
 - 主題、語調、風格、角色等偏好輸入  
