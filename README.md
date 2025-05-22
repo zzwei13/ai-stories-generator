@@ -18,8 +18,8 @@
 
 | Layer            | Technology                                                   |
 |------------------|--------------------------------------------------------------|
-| Language Model   | Together AI, Hugging Face Transformers                       |
-| Prompt Engineering | LangChain, Custom Python Pipelines                         |
+| Language Model   | Together AI, Hugging Face Transformers, RAG                 |
+| Prompt Engineering | Dynamic Prompt Engineering, LangChains                         |
 | Backend          | Python (Streamlit-based App)                                 |
 | Frontend         | Streamlit                                                    |
 | Storage          | JSON-based file storage, session logs in text format         |
