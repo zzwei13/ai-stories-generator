@@ -57,12 +57,9 @@
 - 可檢視故事與圖片結果、提供使用者回饋並進一步優化
 
 ### 主介面  
-![ui](static/img/ui.png)
-
-### 介面版本1  
 ![ui01](static/img/ui01.png)
 
-### 介面版本2  
+### 使用者回饋介面  
 ![ui02](static/img/ui02.png)
 
 ## DEMO
